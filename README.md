@@ -1,4 +1,4 @@
-#Expense Tracker in C Language
+# Expense Tracker in C Language
 
 Project Overview
 The Expense Tracker is a mini-project developed in C language that helps users efficiently manage their finances. The program allows users to log expenses, categorize transactions, track total spending by category, and set reminders for bills. This project utilizes fundamental data structures to create a simple yet functional personal finance management tool.
