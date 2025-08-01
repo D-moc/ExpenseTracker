@@ -26,9 +26,7 @@ It demonstrates practical use of **arrays, stacks, queues, and structs**.
 
 ## 🚀 Future Scope
 - Visual charts for spending patterns  
-- Bank integration for auto-tracking  
-- Budget planning tools  
+- Bank integration for auto-tracking
 
----
 gcc ExpenseTracker.c -o ExpenseTracker
 ./ExpenseTracker
