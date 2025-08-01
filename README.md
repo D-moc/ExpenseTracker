@@ -1,13 +1,13 @@
-# 💰 Expense Tracker in C
+### 💰 Expense Tracker in C
 
-## 📌 Overview
+#### 📌 Overview
 A simple **C mini-project** to manage personal finances.  
 Users can log expenses, categorize them, track totals, set bill reminders, and submit feedback.  
 It demonstrates practical use of **arrays, stacks, queues, and structs**.  
 
 ---
 
-## ✨ Features
+#### ✨ Features
 - Add, edit, and delete expenses  
 - Undo last entry (stack-based)  
 - Categorized spending summaries  
@@ -16,7 +16,7 @@ It demonstrates practical use of **arrays, stacks, queues, and structs**.
 
 ---
 
-## 🛠️ Data Structures
+#### 🛠️ Data Structures
 - **Array** → Stores expenses  
 - **Stack** → Undo last entry  
 - **Queue** → Feedback management  
@@ -24,7 +24,7 @@ It demonstrates practical use of **arrays, stacks, queues, and structs**.
 
 ---
 
-## 🚀 Future Scope
+#### 🚀 Future Scope
 - Visual charts for spending patterns  
 - Bank integration for auto-tracking
 
