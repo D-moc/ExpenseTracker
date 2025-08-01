@@ -32,7 +32,3 @@ This project has potential for expansion into a full-featured software or mobile
 
 ---
 
-## ⚡ How to Run
-1. Compile the program:  
-   ```bash
-   gcc ExpenseTracker.c -o ExpenseTracker
